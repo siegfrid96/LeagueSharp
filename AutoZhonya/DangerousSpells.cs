@@ -546,7 +546,7 @@ namespace AutoZhonya
                     Zhonyable = true,
                     SpellShieldable = false,
                     Buffrequirement = false,
-                    RequiredBuff = "" //maybe nocturne shroud debuffname
+                    RequiredBuff = "" //Nocturne's shroud Debuff name
                 });
 
             #endregion Nocturne R
